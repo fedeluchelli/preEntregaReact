@@ -1,0 +1,7 @@
+.CardWidget a {
+  display: flex;
+  align-items: center;
+  width: 40px;
+  text-decoration: none;
+  color: black;
+}
